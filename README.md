@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Homelab & Personal Infrastructure
 
 Bem-vindo à documentação pública da minha infraestrutura pessoal de servidor e automação local.
@@ -56,6 +55,5 @@ meu-homelab/
     │   └── docker-compose.yml
     └── media-server/
         └── docker-compose.yml
-=======
-# homelab
->>>>>>> 951de0a141d1ddb01df5b66266545a210796f818
+
+
