@@ -1,0 +1,20 @@
+# Ficheiros de Ambiente e Passwords
+.env
+*.env
+*.secret
+secrets/
+
+# Ocultar configurações do Obsidian e IDEs
+.obsidian/
+.vscode/
+.idea/
+
+# Chaves SSH e Certificados
+*.pem
+*.key
+*.crt
+
+# Backups e Dados Temporários
+*.log
+*.sqlite
+*.db
